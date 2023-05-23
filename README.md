@@ -1,2 +1,3 @@
 # csds-221-project-3-hangman-react
-Created with CodeSandbox
+
+A video game themed version of Hangman.
